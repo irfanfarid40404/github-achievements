@@ -17,3 +17,4 @@ Unlocked Pair Extraordinaire badge with co-author.
 - Automated milestone progress check #13
 - Automated milestone progress check #14
 - Automated milestone progress check #15
+- Automated milestone progress check #16
